@@ -15,7 +15,7 @@
       </div>
     </div>
   </template>
-  
+   
   <script>
   export default {
     name: 'TweetPost', // Multi-word component name
